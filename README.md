@@ -1,5 +1,5 @@
 # Cross-Lingual-NER
-Repository for my potential Master's thesis topic on **Cross-Lingual Transfer Learning for Named Entity Recognition**.
+Repository for my potential Master's thesis on **Cross-Lingual Transfer Learning for Named Entity Recognition**.
 
 ### The idea
 
